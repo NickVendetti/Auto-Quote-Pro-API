@@ -1,0 +1,6 @@
+@AutoQuotePro.API_HostAddress = http://localhost:5195
+
+GET {{AutoQuotePro.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
